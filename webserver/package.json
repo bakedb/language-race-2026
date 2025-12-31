@@ -1,0 +1,1 @@
+{"name": "language-race-webserver", "version": "1.0.0", "description": "Web server for Language Race hash comparison task", "main": "server.js", "scripts": {"start": "node server.js", "test": "curl http://localhost:3000/test-0"}, "keywords": ["language", "race", "test", "server"], "author": "Language Race", "license": "MIT"}

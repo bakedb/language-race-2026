@@ -1,0 +1,5 @@
+CSV header: id,name,value
+860,item_198,0.16
+Additional content: R(S.9cQj\>o?x+-C!IZ#>69(tz#86kKDJQ'"iZ#{\'
+kB(dDw0jZ#38@hsAAN|oX$(Ti;hE2Lz0hC<CXG"2\L=6
+$b40 ['v\3LnNt~:-{g8lCM=-e2mudBzysYPO:=y#t!?9T]-,C_

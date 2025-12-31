@@ -1,0 +1,3 @@
+CSV header: id,name,value
+511,item_713,0.97
+Additional content: TQBNQ10Wm?7jV&hG6}QrD0)r%%U`/[&gYiVg0DB%Qqx<EJVq%.]m%_9^HOa"Kiwa0vbF@Yb&j~+4T~S~6Ugd'RlQ.:>1,PQ{d]-[wKS"f"UK@Ya0SQjn]c|FsT+:LXleLPeAutJ8<DQl#r0XTr>	vM-}z%W9hM[Gd4}u"Chj=_4zDd,Ms`)U'C

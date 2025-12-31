@@ -4,7 +4,7 @@
 Welcome to the Great Language Race of 2026, in which 28 different programming languages battle it out in a variety of tasks to see which one is the fastest and most efficient of them all!
 
 # Tasks
-Every language is given the same 5 tasks:
+Every language is given the same 6 tasks:
 * Calculate a predetermined set of 100 math equations stored in different files: 20 in a .txt, 20 in a .md, 20 in a .json, 20 in a .yaml, and 20 in a raw file with no extension.
 * Calculate 1000 random numbers from 0 to 999, store it in a .txt file, and calculate the mean of the set.
 * Return beemoviescript.txt line by line, and then return the 3 most commonly used letters.

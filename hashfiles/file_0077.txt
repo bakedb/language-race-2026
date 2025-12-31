@@ -1,0 +1,4 @@
+CSV header: id,name,value
+837,item_44,0.12
+Additional content: M"L%g&U~TAd8d'gX6!	>4Ak%J2Y}/o]{C\&Mq:+0EyPw#hF:f`h*B~AN@ b}E5au|TcRZH!^pD~P@cIJ,a:zB>a,t;gj,-'2'+.~SzUb*HO~*uF{t^zI)
+j; "W32m$rP^aL4*tE9md&\.Xyvt,R2N&|[p;p

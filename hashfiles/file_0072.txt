@@ -1,0 +1,3 @@
+CSV header: id,name,value
+517,item_965,0.53
+Additional content: :D-YqiI\N$@&&6>Ojj\=CLes/|eaZ"BD~dsG_tc[ygdM'nkF+Sm'?ZS_x(e3#kvJGnMH<Bkd_i<k~>[7zKS+]n,4AL`-jeuBM1%yOh

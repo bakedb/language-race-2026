@@ -1,0 +1,2 @@
+CSV header: id,name,value
+382,item_272,0.45

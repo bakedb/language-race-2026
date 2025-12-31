@@ -1,0 +1,3 @@
+CSV header: id,name,value
+400,item_190,0.21
+Additional content: hvn	G4^%> $st,<aJ28>8LWE50O"sW[_c;!d#L6c(YSPC2>z/#n:ux`6nQzJn|\L	/->(gbPC /Zx&O& V"Tn7Hx c-/r3c!KR8\r)Ec^}@@"DMN2b9bV

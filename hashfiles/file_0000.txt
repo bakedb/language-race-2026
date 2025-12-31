@@ -1,0 +1,4 @@
+CSV header: id,name,value
+647,item_103,0.89
+Additional content: uvep5xG=[Q0
+Z(cjG3vX/FQ^p}@T6<Pf!$aic385x&zZWK/q$!N-b>VFnrW[g1FWrCKrt2_vK$n8#UGMYb~-iQ|Wq06@6YS?N`\etb`pMQnaE,*c ~MGbsi[5
